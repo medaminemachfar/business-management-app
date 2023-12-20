@@ -1,0 +1,11 @@
+101,Product1,60,23.99,Watches
+102,Product2,30,29.95,Clothing
+103,Product3,60,5.99,Books
+104,Product4,30,12.50,Home and Garden
+105,Product5,4,99.99,Electronics
+106,Product6,20,49.99,Clothing
+107,Product7,40,7.99,Books
+108,Product8,25,19.95,Home and Garden
+109,Product9,15,149.99,Electronics
+110,Product10,55,34.50,Watches
+145,SHIRT,60,23.99,CLOTHING

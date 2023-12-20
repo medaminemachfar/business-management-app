@@ -1,0 +1,6 @@
+Feresadmin,feres,azerty,admin
+rami123,rami,123,admin
+eya123,eya,12345,customer
+UID1702295251588,oussema,azerty,customer
+UID1702418677499,jesser123,azerty,supplier
+UID1702549980562,amine,azerty,customer
